@@ -27,7 +27,7 @@ There are two part of codes.
 - [ ] The Evaluation code
 
 ## Papers and Audio samples
-- APSIPA 2019 conference paper: [[arXiv]](https://arxiv.org/abs/1908.09484) [[Demo]](https://annahung31.github.io/Jazz-melody-generation-demo/)
+- APSIPA 2019 conference paper: [[arXiv]](https://arxiv.org/abs/1908.09484) [[Demo]](https://annahung31.github.io/Publication-Demos/publications/jazz_melody_generation/)
 
 ## Authors
 
