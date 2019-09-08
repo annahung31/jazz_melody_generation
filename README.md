@@ -23,8 +23,8 @@ There are two part of codes.
 2. The Evaluation code.
 
 ## TODO
-[] architecture and the recipe for training in the paper
-[] The Evaluation code
+[ ] architecture and the recipe for training in the paper
+[ ] The Evaluation code
 
 ## Papers and Audio samples
 - APSIPA 2019 conference paper: [[arXiv]](https://arxiv.org/abs/1908.09484) [[Demo]](https://annahung31.github.io/Jazz-melody-generation-demo/)
