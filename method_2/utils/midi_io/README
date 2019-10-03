@@ -1,0 +1,8 @@
+1.  To parse the midi file into JSON file, run:
+        python proc.py
+
+    Remeber to replace the original file with the desired one. You can also import it to your script.
+
+2.  To visualize the result in piano roll, run:
+        python vis.py
+        
